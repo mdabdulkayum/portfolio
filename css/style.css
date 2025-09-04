@@ -225,8 +225,11 @@ span {
 .java-bar {
   width: 80%;
 }
-.python-bar {
+.kotlin-bar {
   width: 75%;
+}
+.python-bar {
+  width: 70%;
 }
 .sql-bar {
   width: 70%;
@@ -241,6 +244,9 @@ span {
   width: 80%;
 }
 .css-bar {
+  width: 60%;
+}
+.js-bar {
   width: 60%;
 }
 .xml-bar {
